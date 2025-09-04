@@ -1,7 +1,7 @@
 ## How to use:
 
 ```
-git clone 
+git clone https://github.com/ramackersjp/autostart-openwebui.git
 chmod +x start-openweb-ui.sh
 ```
 
